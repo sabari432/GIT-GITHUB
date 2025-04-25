@@ -1,0 +1,40 @@
+What is Git and GitHub?
+
+Git is a distributed version control system that helps developers track and manage changes to source code during software development. It allows multiple developers to work on the same project efficiently without overwriting each other’s changes. Git works locally on a developer’s machine and can be connected to remote repositories.
+
+GitHub is a cloud based hosting service that lets you store your Git repositories online. It provides collaboration features like pull requests, issues, and code reviews. GitHub is widely used for opensource projects, team collaboration, and continuous integration/deployment.
+
+
+
+Sharing and Collaboration
+
+Git and GitHub make sharing code among team members seamless:
+ Developers can clone repositories to work locally.
+ Changes can be pushed to the central GitHub repository.
+ Branches allow developers to work independently on features.
+ Pull requests help integrate changes after review.
+ GitHub supports tagging, releases, and changelogs for version management.
+
+
+
+Version Control Problems Solved by Git & GitHub
+
+1. Tracking Changes: Git tracks every modification, so you can revert or compare changes.
+2. Conflict Resolution: When multiple people edit the same file, Git helps merge those changes safely.
+3. Branching: Multiple versions of a project (e.g., feature branches, bug fixes) can be managed simultaneously.
+4. Backup: GitHub acts as a backup server for your project.
+5. Audit Trail: You can see who changed what and why, making collaboration transparent.
+
+
+
+Usage in RealWorld Development
+
+ Teams create repositories for projects.
+ Developers clone the repo and create branches for features.
+ After development, changes are committed and pushed.
+ A pull request is created for code review.
+ Once approved, changes are merged to the main branch.
+ CI/CD pipelines are often triggered after merging.
+
+Git and GitHub are essential tools for modern software development, enabling efficient teamwork, safe code changes, and continuous delivery.
+
